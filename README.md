@@ -2,7 +2,7 @@
 Helixscript is a lightweight scripting language based from java 17. It is a simple language that will be extended as I work on it slowly. I am open to suggestions of keywords or what some things might do or make. 
 
 ## Improvements to Helixscript
-Suggestions will be accepted
+Suggestions will be accepted of anything below in the html page provided.
 
 ### Language differences 
 Suggestions such as what keyword to take from another language:
