@@ -32,4 +32,10 @@ iii. val integer = 4
 iv. let integer = 4
 v. ('&%:9]!~}|z2Vxwv-,POqp3NlF.Jh++FdbCBA@?]!~|<`
 
-### Elaboration 
+### Elaboration
+
+You could add a keyword to make an array like `array (4, 13)`
+You could add a keyword like `exit` to quit a loop
+
+## The Crew
+If you wish to join one of the sub-devs of Helixscript, you can submit your 
