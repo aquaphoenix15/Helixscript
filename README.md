@@ -2,7 +2,7 @@
 Helixscript is a lightweight scripting language based from java 17. It is a simple language that will be extended as I work on it slowly. I am open to suggestions of keywords or what some things might do or make. 
 
 ## Improvements to Helixscript
-Suggestions will be accepted of anything below here: https://forms.gle/7hwQGJU9UmFFUdfb8 
+Suggestions will be accepted of anything below [here](https://forms.gle/7hwQGJU9UmFFUdfb8) 
 
 ### Language differences 
 Suggestions such as what keyword to take from another language:
@@ -38,4 +38,4 @@ You could add a keyword to make an array like `array (4, 13)`
 You could add a keyword like `exit` to quit a loop
 
 ## The Crew
-If you wish to join one of the sub-devs of Helixscript, you can submit your 
+If you wish to join one of the sub-devs of Helixscript, you can submit your request [Here]()
